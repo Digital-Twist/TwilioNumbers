@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "dotenv": "^8.0.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "ora": "^3.0.0",
     "twilio": "^3.23.1"
   }
