@@ -28,7 +28,7 @@
   "private": true,
   "homepage": "https://github.com/MoveOnOrg/switchboard-twilio#readme",
   "devDependencies": {
-    "eslint": "^5.9.0",
+    "eslint": "^7.9.0",
     "jest": "^23.6.0"
   },
   "dependencies": {
